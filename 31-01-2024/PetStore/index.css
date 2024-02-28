@@ -1,0 +1,46 @@
+img{
+    height:200px;
+    width: 250px;
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+
+span{
+    display: block inline;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+
+input{
+  display: inline-block;
+float:  left;
+margin-top: 15px;
+
+}
+textarea{
+    display: inline-block;
+    float:  left;
+    
+}
+select{
+    display: inline-block;
+    float:  left;
+    
+}
+button{
+    display: inline-block;
+    float:  left;
+    margin-top: 175px;
+    margin-right: 250px;
+    
+}
+a{
+    text-decoration: none;
+}

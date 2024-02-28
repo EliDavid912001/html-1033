@@ -1,0 +1,118 @@
+
+.BackgroundBlue{
+    background-color: rgba(66, 66, 151, 0.942);
+    width:100%;
+    height: 350px;
+}
+.Container2{
+margin-left: 50px;
+}
+.Container2>span{
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 50px;
+    cursor: pointer;
+    
+    
+}
+.Container>span>img{
+    width: 15px;
+    height: 15px;
+}
+
+.Container2>span:hover{
+   display: inline block;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+b{
+    display: inline-block;
+}
+.Container1{
+    float: right;
+display: inline block;
+}
+.Container1>span{
+    color: white;
+    font-size: 15px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    cursor: pointer;
+  
+}
+.Container1>input{
+    font-size:8px;
+    height: 20px;
+    width:35px;
+    cursor: pointer;
+    background-color: rgb(105, 206, 105);
+    
+    
+
+}
+.Container1>span:hover{
+   display: inline block;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.BackgroundYellow{
+    text-align: center;
+    background-color: rgb(210, 210, 39);
+    width: 60%;
+    height: 80px;
+    margin-top: 13.5%;
+    margin-left:20%;
+    display: inline-block;
+}
+.BackgroundYellow>.ContainerVertical>input{
+    border-radius: 15px;
+    font-size: 15px;
+    width:200px;
+    height: 70px;
+    display: inline-block;
+    margin-top: 3px;
+
+}
+.BackgroundYellow>.ContainerVertical>input:nth-last-of-type(1){
+    background-color: rgb(4, 147, 30);
+}
+.ContainerVertical{
+    display: inline block;
+}
+.CheckBoxForWork{
+    margin-top: 30px;
+    margin-left: 250px
+}
+
+.VerticalImg{
+    position: relative;
+    display: block;
+    text-align: center;
+    
+
+}
+
+.ImgChild{
+    width: 1000px;
+    height: 200px;
+    border-radius: 30px;
+}
+.Title{
+    margin-right:35%;
+}
+/* .Title2{
+    margin-bottom: 200px;
+    position: absolute;
+} */
+.Title2 {
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}

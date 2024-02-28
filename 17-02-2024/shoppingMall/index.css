@@ -1,0 +1,48 @@
+.TableRow{
+    text-align: center;
+border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  
+}
+.GoldMall{
+    margin-top: 50px;
+    text-align: center;
+    color: gold;
+}
+
+.AccordionMall{
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+    margin-left: 28%;
+  
+}
+.Text{
+    font-size: xx-large;
+   margin-left: 40%;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+body{
+
+    background: url(assest/mall_logo.png);
+    background-repeat: no-repeat;
+ 
+}
+.ButtonBoostrap{
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+

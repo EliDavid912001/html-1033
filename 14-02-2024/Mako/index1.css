@@ -1,0 +1,156 @@
+body{
+    margin: auto;
+}
+
+.Title{
+    background-color:rgb(20, 20, 75);
+    width: 100%;
+    height: 100px;
+   
+} 
+.DivImageIcon{
+margin-left: 33%;
+margin-top: 35px;
+display: inline-block;
+}
+.DivImageIcon>img{
+    margin: 10px;
+}
+.Title>span{
+    display: inline-block;
+  float: right;
+  margin-right: 270px;
+   margin-top: 35px;
+}
+ .ImageFecbook{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.ImageDoar{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+
+}
+.NavBarShell{
+    display: inline block;
+    font-size: 22px;
+   margin-left: 18%;
+   padding: 10px;
+}
+.NavBar{
+    display: inline-block;
+    background-color: rgb(197, 223, 232);
+    width: 100%;
+    height: 50px;
+}
+.NavBar div>:hover{
+    color: wheat;
+    background-color: rgb(37, 37, 70);
+    cursor: pointer;
+    border: 1px solid black; 
+}
+
+.NavBar div:nth-of-type(1){
+    display: inline-block;
+    
+   
+}
+
+.NavBar div:nth-of-type(2){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(3){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(4){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(5){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(6){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(7){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(8){
+    display: inline-block;
+   
+}
+.NavBar div:nth-of-type(9){
+    display: inline-block;
+   
+}
+span{
+    margin: 10px;
+}
+.ImageSamsung{
+    margin-left: 18%;
+    margin-top:1%;
+}
+.ImageLove{
+    margin-left: 18%;
+    margin-top:1%;
+}
+.ImageBibi{
+    margin-left: 18.5%;
+    margin-top:1%;
+}
+.divImageparent{
+    
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    position: absolute;
+background-color:black;
+opacity: 0.7;
+width: 230px;
+height: 70px;
+margin-top: 105px;
+margin-right: 100px;
+
+
+
+}
+.ImageParent{
+  position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.ImageParent>a{
+    margin-left: 10px;
+    
+}
+.header{
+    display: flex;
+    
+}
+.header>div{
+   flex-grow: 1;
+   border: 1px solid black;
+   width: 200px;
+   height: 200px;
+}
+.headerdiv>div{
+   flex-grow: 1;
+   border: 1px solid black;
+width: 200px;
+height: 500px;
+}
+
+

@@ -1,0 +1,47 @@
+
+.down{
+    margin-top: 10px;
+}
+.down2{
+    margin-top: 10px;
+}
+.ImageFootBall{
+    margin-top: 20px;
+}
+.center{
+    margin-left: 80px;
+}
+.mainVideoOfSport{
+    display: inline-block;
+}
+
+
+.paragrapSprot{
+    display: inline-block;
+
+}
+hr{
+ background-color: black;
+}
+.hrSport{
+    margin-left: 380px;
+    width: 60%;
+    height: 10%;
+  
+}
+
+#mainSport{
+    flex-grow: 3;
+    display: inline-block;
+
+}
+#sideAdverstiment{
+    margin: 20px;
+    display: inline-block;
+   flex-grow:2;
+  
+}
+.container1{
+    display: inline block;
+}
+
